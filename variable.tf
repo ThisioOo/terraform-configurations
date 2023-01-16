@@ -1,4 +1,4 @@
-variable "filename" {
+variable "files" {
     type = list(string)
     default = [ 
         "loops/pets.txt",
